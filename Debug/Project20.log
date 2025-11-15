@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm9.h(503,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(258,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(374,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(379,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(242,8): warning C4101: 'temp234': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm20.h(179,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm5.h(282,28): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm22.h(338,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm1.h(253,21): warning C4101: 'e': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm7.h(264,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm21.h(197,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm2.h(687,27): warning C4101: 'E': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm2.h(696,24): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm3.h(252,24): warning C4101: 'EE': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm4.h(242,24): warning C4101: 'EE': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm.h(338,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MyForm10.cpp
+  MyForm19.cpp
+  MyForm4.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm5.h(282,28): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm4.h(242,24): warning C4101: 'EE': unreferenced local variable
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project20.vcxproj -> C:\Users\muteeb\source\repos\Project20\Debug\Project20.exe

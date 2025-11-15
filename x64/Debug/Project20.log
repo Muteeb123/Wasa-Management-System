@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm9.h(316,41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(375,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm12.h(360,7): warning C4101: 'temp234': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm8.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm1.h(248,21): warning C4101: 'e': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm7.h(255,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm2.h(400,24): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm3.h(249,24): warning C4101: 'EE': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm5.h(252,28): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm10.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm4.h(255,24): warning C4101: 'EE': unreferenced local variable
+  MyForm13.cpp
+  MyForm14.cpp
+  MyForm2.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm7.h(255,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm2.h(400,24): warning C4101: 'Ex': unreferenced local variable
+  MyForm3.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm7.h(255,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm2.h(400,24): warning C4101: 'Ex': unreferenced local variable
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm3.h(249,24): warning C4101: 'EE': unreferenced local variable
+  MyForm6.cpp
+C:\Users\muteeb\source\repos\Project20\Project20\MyForm7.h(255,24): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project20.vcxproj -> C:\Users\muteeb\source\repos\Project20\x64\Debug\Project20.exe
